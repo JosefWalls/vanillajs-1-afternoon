@@ -34,3 +34,20 @@
     text-align: center;
     font-size: 2em;
 }
+
+
+#reset {
+   position: absolute;
+   top: 85vh;
+   left: 46.25vw;
+   padding: 1vh 1vw 1vw 1vw;
+   background: peru;
+   border: 1px solid red;
+   color: darkblue;
+   font-family: 'Raleway', sans-serif;
+}
+
+.winner {
+    background: green;
+    border: 1px dashed white;
+}
